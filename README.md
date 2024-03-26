@@ -8,7 +8,9 @@
 
 ---
 <div align="center">
-  # Rick and Morty Henry Integrative Project
+  <h1>
+    Rick and Morty Henry Integrative Project
+  </h1>
 </div>
 
 In this project, React is used as a serverless application. The app makes requests to a public API and then parses/handles the obtained data to display it in components using filters.
@@ -30,7 +32,9 @@ This is a project for the Henry FullStack Bootcamp.
 
 ---
 <div align="center">
-  # Proyecto Integrador Henry Rick Y Morty
+  <h1>
+    Proyecto Integrador Henry Rick Y Morty
+  </h1>
 </div>
 
 En este proyecto se utiliza React como una aplicación serverless. La aplicación realiza peticiones a una API pública y luego parsea/maneja la información obtenida para mostrarla en componentes, utilizando filtros.
