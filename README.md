@@ -1,8 +1,10 @@
+<div align="center">
 <p>
   <a href="https://www.soyhenry.com/">
     <img src="https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png"/>
   </a>
 </p>
+</div>
 
 ---
 # Rick and Morty Henry Integrative Project
