@@ -1,0 +1,28 @@
+.detail_container {
+    margin: 0 auto; /* Esto centra horizontalmente */
+    margin-top: 56px; /* Puedes ajustar este valor para el espacio superior */
+    border: 1px solid #000000b1;
+    border-radius: 1%;
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.521);
+    padding: 36px;
+    padding-top: 72px;
+    background-color: #000000c5;
+    color: #bbbaba;
+    width: 650px;
+    height: 500px;
+    text-align: center;
+    transition: transform 0.4s, background-color 0.4s;
+  }
+
+  .detail_container img {
+    transform: scale(1.2);
+  }
+  
+  .detail_container:hover {
+    transform: scale(1.02);
+    color: #dbdbdb;
+    border: 1px solid rgba(111, 111, 111, 0.811);
+    background-color: rgba(111, 111, 111, 0.811);
+  }
+
+  

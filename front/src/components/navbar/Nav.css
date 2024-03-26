@@ -1,0 +1,53 @@
+
+
+.nav-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #000000d0;
+    color: white;
+    padding: 10px 20px;
+  }
+  
+  .nav-left {
+    font-weight: bold;
+  }
+  
+  .nav-right {
+    display: flex;
+    align-items: center;
+  }
+
+
+  .nav-bar input {
+    transform: scale(1.2);
+    background-color: #3b3b3b;
+    color: #cccaca;
+    margin-right: 15px;
+    border: none;
+    border-radius: 4%;
+  }
+
+  .nav-bar button {
+    transform: scale(1.1);
+    color: #cccaca;
+    background-color: rgb(105, 105, 105);
+    border: 1px solid rgb(105, 105, 105);
+    border-radius: 4%;
+    margin: 4px;
+    margin-left: 18px;
+    transition: transform 0.25s, background-color 0.25s;
+  }
+
+  .nav-bar button:hover {
+    transform: scale(1.4);
+    border: 1px solid green;
+    color: #8cfa95;
+    background-color: green;
+  }
+
+  .logo-svg {
+    width: 40px; /* Adjust the width as needed */
+    height: 40px; /* Adjust the height as needed */
+    margin-left: 20px; /* Add margin for spacing */
+  }
