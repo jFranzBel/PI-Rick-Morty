@@ -26,8 +26,8 @@ This is the API used: https://rickandmortyapi.com/
 To use this repository, simply clone it, open a terminal in the "front" folder, run npm i, and then start the application with the command npm run dev. You will also be prompted to enter a username and password when accessing the website. The credentials are as follows:
 
 - username : jona@jona.com
-- password : 123456j 
-
+- password : 123456j
+<br>
 This is a project for the Henry FullStack Bootcamp.
 
 ---
@@ -51,7 +51,5 @@ Para utilizar este repositorio, simplemente clónalo, abre una terminal en la ca
 
 - username : jona@jona.com
 - password : 123456j 
-
+<br>
 Este es un proyecto para el Henry FullStack Bootcamp.
-
-
