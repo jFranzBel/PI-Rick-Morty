@@ -16,7 +16,7 @@ This is a proyect for the Henry FullStack Bootcamp.
 
 ---
 
-# Proyecto Henry Integrador Rick Y Morty
+# Proyecto Integrador Henry Rick Y Morty
 
 En este proyecto se utiliza React como una aplicación serverless. La aplicación realiza peticiones a una API pública y luego parsea/maneja la información obtenida para mostrarla en componentes, utilizando filtros.
 
