@@ -1,4 +1,10 @@
+<p>
+  <a href="https://www.soyhenry.com/">
+    <img src="https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png"/>
+  </a>
+</p>
 
+---
 # Rick and Morty Henry Integrative Project
 
 In this project, React is used as a serverless application. The app makes requests to a public API and then parses/handles the obtained data to display it in components using filters.
