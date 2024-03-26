@@ -22,7 +22,7 @@ To use this repository, simply clone it, open a terminal in the "front" folder, 
 - username : jona@jona.com
 - password : 123456j 
 
-This is a proyect for the Henry FullStack Bootcamp.
+This is a project for the Henry FullStack Bootcamp.
 
 ---
 
