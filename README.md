@@ -11,6 +11,10 @@ In this project, React is used as a serverless application. The app makes reques
 
 The main functionality of the app is to search for Rick and Morty characters in the public API by their ID, which ranges from 1 to 826. It then keeps the characters in a local state of the app to allow users to add them to a favorites group and filter them by favorites or non-favorites. Characters can also be removed from the state using the "X" button on the cards.
 
+Tech Stack Frameworks/Libraries used:
+- React via Vite
+- Axios
+
 This is the API used: https://rickandmortyapi.com/
 
 To use this repository, simply clone it, open a terminal in the "front" folder, run npm i, and then start the application with the command npm run dev. You will also be prompted to enter a username and password when accessing the website. The credentials are as follows:
@@ -27,6 +31,10 @@ This is a proyect for the Henry FullStack Bootcamp.
 En este proyecto se utiliza React como una aplicación serverless. La aplicación realiza peticiones a una API pública y luego parsea/maneja la información obtenida para mostrarla en componentes, utilizando filtros.
 
 La funcionalidad principal de la aplicación es buscar personajes de Rick y Morty en la API pública por su ID, que va desde el número 1 al 826. Luego, mantiene los personajes en un estado local de la aplicación para poder agregarlos a un grupo de favoritos y filtrarlos según estén marcados como favoritos o no. También se pueden eliminar del estado utilizando el botón "X" que se encuentra en las tarjetas.
+
+Tecnologias Marcos/Lirerias usados:
+- React por Vite
+- Axios
 
 Esta es la API utilizada: https://rickandmortyapi.com/
 
